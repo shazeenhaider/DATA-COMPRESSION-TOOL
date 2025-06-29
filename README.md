@@ -18,3 +18,7 @@ The structure ofthe program typically involves reading input from a file or stri
 We also write the decompression part of the program — so that the original data can be recovered. Just like a human can look at “A5B2” and mentally picture “AAAAABB”, the program reads each character followed by its count and reconstructs the original string. This way, the system becomes a complete compression-decompression tool.
 
 Making a program like this teaches us how computers can mimic human logic — noticing patterns, reducing repetition, and storing information more efficiently. It shows how basic human problem-solving ideas can turn into algorithms, and those algorithms can power real-world tools, from file compressors to image processing software. 
+
+
+**************output****************
+![Image](https://github.com/user-attachments/assets/e0f81326-c367-4eee-a9e8-64ec7690ac8f)
